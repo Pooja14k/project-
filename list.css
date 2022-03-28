@@ -1,0 +1,29 @@
+
+*{
+    margin-top: 15px;
+    margin-left: 20px;
+    padding: 5px;
+}
+body{
+    background-color: black;
+    color: rgb(226, 0, 0);
+}
+.head{
+    text-align: center;
+    font-size: 200%;
+    text-decoration:solid;
+    
+}
+li{
+    letter-spacing: 1px;
+}
+a{
+    font-size: 30px;
+    color: rgb(43, 216, 130);
+    text-decoration: wavy;
+}
+a:hover{
+    cursor: pointer;
+    text-decoration: underline;
+    color: rgb(7, 202, 0);
+}
